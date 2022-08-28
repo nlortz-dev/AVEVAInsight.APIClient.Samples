@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVEVAInsight.APIClient.Samples", "AVEVAInsight.APIClient.Samples\AVEVAInsight.APIClient.Samples.csproj", "{B7F9584D-C53E-4879-90DC-B57AD05AF230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7F9584D-C53E-4879-90DC-B57AD05AF230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F9584D-C53E-4879-90DC-B57AD05AF230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F9584D-C53E-4879-90DC-B57AD05AF230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F9584D-C53E-4879-90DC-B57AD05AF230}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DABC3706-7E38-4DB0-9133-F1CB43C8DB12}
+	EndGlobalSection
+EndGlobal
